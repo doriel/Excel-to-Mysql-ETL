@@ -15,6 +15,10 @@ git clone https://github.com/doriel/World_Cup_Data_1930_to_2014.git
 cd World_Cup_Data_1930_to_2014
 jupyter notebook
 ```
-
 Then on the browser go to ***http://localhost:8888*** and make the changes you wish.
+
+## Thank You
+[Kaggle](https://www.kaggle.com/) for the information.
+
+
 
