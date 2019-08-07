@@ -1,10 +1,10 @@
-# Visualizing World Cup Data
+# World Cup Data
 
 ![World Cup Data](img/1930_2014_goals.png "World Cup Data Visualization")
 
-## Visualizing World Cup Data With Seaborn
+## World Cup Data
 
-In this i will be exploring data using Jupyter Notebook from the Fifa World Cup from 1930-2014 to analyze trends and discover insights about the world's biggest game, fútbol! 
+In this i will be exploring data using Jupyter Notebook to create an ETL (Extract Data from Excel the excel file, make some Transformations and Load the data to a Mysql Database) using Fifa World Cup Data from 1930-2014 to analyze trends and discover insights about the world's biggest game, soccer! 
 
 
 ## Usage 
@@ -18,7 +18,7 @@ jupyter notebook
 Then on the browser go to ***http://localhost:8888*** and make the changes you wish.
 
 ## Thank You
-[Kaggle](https://www.kaggle.com/) for the information.
+[Pavan Raj](https://www.kaggle.com/pavanraj159/fifa-world-cup-1930-to-2014-data-analysis) for the information.
 
 
 
