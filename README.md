@@ -1,4 +1,4 @@
-# World Cup Data
+# World Cup Data ETL
 
 ![World Cup Data](img/1930_2014_goals.png "World Cup Data Visualization")
 
